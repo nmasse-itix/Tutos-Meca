@@ -10,7 +10,7 @@ Les triangles sont à changer quand :
 ## Matériel nécessaire
 En plus du matériel courant, les outils suivants sont nécessaires :
 - une grande rallonge d'un mètre pour désserrer les écrous bien serrés
-- une clé dynamométrique (plage TODO à 210 N.m)
+- une clé dynamométrique (plage 25 à 210 N.m)
 - deux clés/douilles de 22 **à 12 pans**. C'est très courant, les douilles classiques 6 pans ont déjà en général 12 pans. Chez Facom la référence est `S.22`. Dans le cas présent, j'avais une douille Magnusson de 22 et une clé à pipe Facom de 22 également.
 - un jeu de chasses rotules à frapper (références `670.0091`, `670.0092` et `670.0094` chez KS.Tools)
 
