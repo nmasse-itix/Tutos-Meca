@@ -18,8 +18,8 @@ En plus du matériel courant, les outils suivants sont nécessaires :
 
 ## Liste des pièces à acheter
 
-- Un triangle coté conduteur (référence RENAULT : 6025305572 - 6025307649)
-- Un triangle coté passager (référence RENAULT : 6025305573 - 6025307650)
+- Un triangle coté conduteur (référence RENAULT : 6025305572 - 6025307649, moi jj'ai opté pour le [TRW JTC1095](https://www.oscaro.com/triangle-de-suspension-trw-jtc1095-1857579-273-p))
+- Un triangle coté passager (référence RENAULT : 6025305573 - 6025307650, moi j'ai opté pour le [TRW : JTC1094](https://www.oscaro.com/triangle-de-suspension-trw-jtc1094-1857578-273-p))
 - Deux boulons de 22 (référence RENAULT : 8201084688)
 - Deux écrous de 22 (référence RENAULT : 7700802227)
 
