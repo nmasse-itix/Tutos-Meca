@@ -61,7 +61,7 @@ Détacher le câble du capteur ABS et le flexible de frein. Ils sont clipsés su
 
 ### 5. Dévisser les deux vis du pied de l'amortisseur
 
-Utilisez une douille de 24 et et la rallonge car c'est serré fort !
+Utilisez une douille de 24 et la rallonge car c'est serré fort !
 
 ![Une fois dévissé...](IMG_0066.jpg)
 
@@ -150,3 +150,6 @@ Avant de prendre la route, vérifier que :
  - les écrous qui tiennent le haut de l'amortisseur sont serrés au couple
  - le flexible de frein et le câble du capteur ABS sont re-fixés sur le pied de l'amortisseur
  - les écrous de roue sont correctement serrés
+ - les disques de frein sont propres et dégraissés (si vous avez manipulé la fusée avec vos mains pleines de cambouis, il faut y passer un coup de dégraissant frein)
+
+
