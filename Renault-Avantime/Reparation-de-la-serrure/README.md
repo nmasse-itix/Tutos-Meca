@@ -100,15 +100,16 @@ lame qui joue le role de ressort.
 
 ![Le tout assemblé](IMG_0222.jpg)
 
-Le stator vient se positionner dans le corps de la serrure, lorsque le pointeau
-est aligné avec la rainure correspondante dans le corps de la serrure.
+Le corps de la serrure présente une rainure dans laquelle vient se placer le pointeau.
 
 ![La rainure correspondante dans le corps de la serrure](IMG_0224.jpg)
 
-Le rôle du pointeau est d'empêcher le barillet de tourner dans le corps de la serrure.
-La lame, qui joue un rôle de ressort, permet de plaquer le pointeau dans la rainure.
+Le rôle du pointeau est d'empêcher, lors du fonctionnement normal de la serrrure,
+le barillet de tourner dans le corps de la serrure.
+La lame, qui joue un rôle de ressort, permet de plaquer le pointeau dans la rainure et donc
+dans les conditions normales d'utilisation le stator et le corps sont fixes.
 L'intérêt d'un tel type de montage est de permettre au stator de tourner dans le corps
-de la serrure lorsqu'un voleur tente de forcer la serrure
+de la serrure lorsqu'un voleur tente de forcer la serrure.
 
 Ainsi, les paillettes du barillet ne seront pas endommagées et vu que l'axe de rotation
 du levier tournera en même temps que l'oeil du levier, la gâche restera fixe malgré la
