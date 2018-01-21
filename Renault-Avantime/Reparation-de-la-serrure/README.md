@@ -155,6 +155,8 @@ retire la clé de la serrure.
 Et les deux échancrures, sur le pourtour de part et d'autre de la grande patte, servent
 à faire coulisser les deux pattes du ressort de rappel lorsque le barillet tourne.
 
+[Le plan sketchup est disponible ici.](piece.skp)
+
 ## 3.1. Matériel nécessaire
 
 Pour fabriquer cette petite pièce, il vous faudra un morceau de tube métallique
