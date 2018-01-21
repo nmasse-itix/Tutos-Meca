@@ -84,9 +84,9 @@ Déposer les clips et vis qui tiennent les deux cables qui actionnent le verroui
 ![Déposer les clips et les vis](IMG_0133-2.jpg)
 
 A l'aide d'une spatule, décoller la feuille de propreté de la portière.
-Ne pas abîmer la feuille en polystirène car idéalement il faudra la reposer !
+Ne pas abîmer la feuille en polystyrène car idéalement il faudra la reposer !
 
-![Décoller la feuille de polystirène](IMG_0134.jpg)
+![Décoller la feuille de polystyrène](IMG_0134.jpg)
 
 ## Remontage
 
