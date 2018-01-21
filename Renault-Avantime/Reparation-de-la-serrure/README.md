@@ -155,7 +155,7 @@ retire la clé de la serrure.
 Et les deux échancrures, sur le pourtour de part et d'autre de la grande patte, servent
 à faire coulisser les deux pattes du ressort de rappel lorsque le barillet tourne.
 
-[Le plan sketchup est disponible ici.](piece.skp)
+[Le plan sketchup est disponible ici.](https://raw.githubusercontent.com/downloads/nmasse-itix/Tutos-Meca/master/Renault-Avantime/Reparation-de-la-serrure/piece.skp)
 
 ## 3.1. Matériel nécessaire
 
